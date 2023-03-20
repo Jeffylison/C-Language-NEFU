@@ -37,7 +37,7 @@ int main()
                             case B:cout<<"B"<<" ";break;
                         }
                     }
-                    cout<<endl;
+                    cout<<sum<<endl;
                 }
 
             }
